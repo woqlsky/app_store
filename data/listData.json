@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "App1",
+        "price": 1.10,
+        "author": "App1 Author",
+        "type": "Action"
+    },
+    {
+        "id": 2,
+        "name": "App2",
+        "price": 1.20,
+        "author": "App2 Author",
+        "type": "Action"
+    },
+    {
+        "id": 3,
+        "name": "App3",
+        "price": 1.30,
+        "author": "App3 Author",
+        "type": "Action"
+    },
+    {
+        "id": 4,
+        "name": "App4",
+        "price": 1.20,
+        "author": "App4 Author",
+        "type": "Action"
+    },
+    {
+        "id": 5,
+        "name": "App5",
+        "price": 1.10,
+        "author": "App5 Author",
+        "type": "Action"
+    }
+]
