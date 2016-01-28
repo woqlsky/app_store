@@ -2,7 +2,8 @@
 var routes = {
     'home': homeAction,
     'list': listAction,
-    'show': showAction
+    'show': showAction,
+    'calendar': calendarAction
 };
 
 $(window).on('hashchange', function(e) {
