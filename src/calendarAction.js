@@ -2,7 +2,7 @@ var calendarAction = function(){
   var app = $('#app');
 
   var createCalendar = function(calendarData){
-  var tableElement = $('<table class="table"></table>');
+    var tableElement = $('<table class="table"></table>');
     var headerRow = $('<tr style="outline: thin solid"></tr>');
     headerRow.append($('<th style="text-align: center;">Monday</th>'));
     headerRow.append($('<th style="text-align: center;">Tuesday</th>'));

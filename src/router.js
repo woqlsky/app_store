@@ -1,9 +1,11 @@
 
 var routes = {
+    '': projectAction,
     'home': homeAction,
     'list': listAction,
     'show': showAction,
     'calendar': calendarAction
+    
 };
 
 $(window).on('hashchange', function(e) {
