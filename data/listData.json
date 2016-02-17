@@ -4,34 +4,39 @@
         "name": "App1",
         "price": 1.10,
         "author": "App1 Author",
-        "type": "Action"
+        "type": "Action",
+        "img": "<img src = http://a1.mzstatic.com/eu/r30/Purple5/v4/48/52/6c/48526ca7-2f09-f6c5-c2e5-2ca986238ff5/icon128-2x.png />"
     },
     {
         "id": 2,
         "name": "App2",
         "price": 1.20,
         "author": "App2 Author",
-        "type": "Action"
+        "type": "Action",
+        "img": "<img src = https://upload.wikimedia.org/wikipedia/en/2/2d/Angry_Birds_promo_art.png />"
     },
     {
         "id": 3,
         "name": "App3",
         "price": 1.30,
         "author": "App3 Author",
-        "type": "Action"
+        "type": "Action",
+        "img": "<img src = http://downdetector.pl/i/logo/itunes_logo.png />"
     },
     {
         "id": 4,
         "name": "App4",
         "price": 1.20,
         "author": "App4 Author",
-        "type": "Action"
+        "type": "Action",
+        "img": "<img src = https://pbs.twimg.com/profile_images/666407537084796928/YBGgi9BO.png />"
     },
     {
         "id": 5,
         "name": "App5",
         "price": 1.10,
         "author": "App5 Author",
-        "type": "Action"
+        "type": "Action",
+        "img": "<img src = http://www.e-sochaczew.pl/foto_news/12211102281358971231.png />"
     }
 ]

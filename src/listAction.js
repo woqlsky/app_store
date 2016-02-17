@@ -14,7 +14,7 @@ var listAction = function(){
 
         listData.forEach(function(listDataElement){
             var dataRow = $('<tr></tr>');
-            var showLink = $('<a>Show</a>');
+            var showLink = $('<a class=>Show</a>');
             showLink.attr('href', '#show/' + listDataElement.id);
             dataRow.append($('<td></td>').append(showLink));
             dataRow.append($('<td>'+ listDataElement.id +'</td>'));
